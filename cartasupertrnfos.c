@@ -24,13 +24,11 @@ int main()
     
     printf("Digite seu PIB: \n");
     scanf("%i", &Pib);
-
         printf("Qual o ponto  turístico dela: \n");
 scanf("%s", &pontot);
 
 printf("Digite o nome de outro estado B: \n");
 scanf("%s", &cdgb);
-
 printf("Digite o numero de habitante: \n");
 scanf("%i", &populacaob);
 
